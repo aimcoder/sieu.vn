@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Blog of Petr Nguyen`,
+    title: `Petr Nguyen`,
     author: `Petr Nguyen`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://sieu.vn`,
